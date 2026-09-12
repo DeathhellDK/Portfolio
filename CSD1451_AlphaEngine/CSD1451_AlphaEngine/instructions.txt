@@ -1,0 +1,32 @@
+How to play the game:
+
+Controls:
+
+W	- Move up,
+A	- Move left
+D	- Move right
+S	- move down
+
+W+D - move diagonally right up
+W+A - Move diagonally left up
+S+A - Move diagonally down left
+S+D - Move diagonally down right
+
+Weapons are auto firing
+Aim mouse in direction to fire
+
+Health bar takes damage when enemy touches you.
+The boss can attack you even while not touching you.
+You only have 1 life.
+
+The EXP bar is the blue bar at the top of the screen.
+When EXP bar fills up, you will level up and a skill menu will pop up.
+
+Skill menu:
+
+You can unlock new weapons or upgrade existing weapons here.
+Only one selection at a time.
+Fill the EXP bar again to make another selection.
+
+
+

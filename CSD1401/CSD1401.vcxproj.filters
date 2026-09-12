@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\utils">
+      <UniqueIdentifier>{2cc8d8b2-9816-4079-b5f8-2bf9cb809a2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\enemy">
+      <UniqueIdentifier>{6f965675-ee16-41d5-b610-e5df0cf00412}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\mainmenu">
+      <UniqueIdentifier>{52e37774-c0ae-4aad-a724-ad8fbfde3e35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\player">
+      <UniqueIdentifier>{4efaeffb-734d-41ac-bc91-3f972b8853c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Loading">
+      <UniqueIdentifier>{18faffd5-9542-4572-819a-d708b8c97ed6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="utils.c">
+      <Filter>Source Files\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="game.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.c">
+      <Filter>Source Files\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainmenu.c">
+      <Filter>Source Files\mainmenu</Filter>
+    </ClCompile>
+    <ClCompile Include="player.c">
+      <Filter>Source Files\player</Filter>
+    </ClCompile>
+    <ClCompile Include="bullet.c">
+      <Filter>Source Files\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="loading.c">
+      <Filter>Source Files\Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="Preload.c">
+      <Filter>Source Files\Loading</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="utils.h">
+      <Filter>Source Files\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>Source Files\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="mainmenu.h">
+      <Filter>Source Files\mainmenu</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Source Files\player</Filter>
+    </ClInclude>
+    <ClInclude Include="bullet.h">
+      <Filter>Source Files\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="loading.h">
+      <Filter>Source Files\Loading</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
