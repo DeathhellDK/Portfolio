@@ -1,0 +1,89 @@
+{
+  "background": {
+    "texture": "mainmenu_bg"
+  },
+  "buttons": {
+    "btnRelSize": {
+      "x": 0.10000000149011612,
+      "y": 0.07999999821186066
+    },
+    "creditsRelPos": {
+      "x": 0.3700000047683716,
+      "y": 0.3199999928474426
+    },
+    "items": [
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "main.play",
+        "label": "Play",
+        "relPos": {
+          "x": 0.2199999988079071,
+          "y": 0.3700000047683716
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "main.tutorial",
+        "label": "Tutorial",
+        "relPos": {
+          "x": 0.2199999988079071,
+          "y": 0.17000000178813934
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "main.settings",
+        "label": "Settings",
+        "relPos": {
+          "x": 0.2199999988079071,
+          "y": 0.27000001072883606
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "main.credits",
+        "label": "Credits",
+        "relPos": {
+          "x": 0.3700000047683716,
+          "y": 0.3199999928474426
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "main.quit",
+        "label": "Quit Game",
+        "relPos": {
+          "x": 0.3700000047683716,
+          "y": 0.2199999988079071
+        },
+        "textColor": 4294967295
+      }
+    ],
+    "playRelPos": {
+      "x": 0.2199999988079071,
+      "y": 0.3700000047683716
+    },
+    "quitRelPos": {
+      "x": 0.3700000047683716,
+      "y": 0.2199999988079071
+    },
+    "settingsRelPos": {
+      "x": 0.2199999988079071,
+      "y": 0.27000001072883606
+    },
+    "texture": "menu_button",
+    "tutorialRelPos": {
+      "x": 0.2199999988079071,
+      "y": 0.17000000178813934
+    }
+  }
+}

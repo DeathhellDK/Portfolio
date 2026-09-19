@@ -1,0 +1,52 @@
+{
+  "ids": {
+    "text": "Confirm.Text",
+    "yes": "Confirm.Yes",
+    "no": "Confirm.No"
+  },
+  "panel": {
+    "relSize": {
+      "x": 0.42,
+      "y": 0.22
+    },
+    "color": 4280690214,
+    "dimColor": 2130706432
+  },
+  "message": {
+    "relPos": {
+      "x": 0.5,
+      "y": 0.62
+    },
+    "font": "default",
+    "fontSize": 30,
+    "color": 4294967295
+  },
+  "buttons": {
+    "relSize": {
+      "x": 0.25,
+      "y": 0.26
+    },
+    "font": "default",
+    "fontSize": 22,
+    "textColor": 4294967295,
+    "texture": "menu_button",
+    "items": [
+      {
+        "id": "Confirm.Yes",
+        "label": "Yes",
+        "relPos": {
+          "x": 0.18,
+          "y": 0.18
+        }
+      },
+      { 
+        "id": "Confirm.No",
+        "label": "No",
+        "relPos": {
+          "x": 0.57,
+          "y": 0.18
+        }
+      }
+    ]
+  }
+}

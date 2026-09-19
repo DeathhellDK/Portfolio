@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "scene": "tut6",
+  "tileSize": 100.0,
+  "objects": [
+    { "type": "WallTile", "name": "V_WallTile_0_6",  "gx": 0,  "gy": 6, "textureKey": "wall_BL_2", "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_1_6",  "gx": 1,  "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_2_6",  "gx": 2,  "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_3_6",  "gx": 3,  "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_4_6",  "gx": 4,  "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_5_6",  "gx": 5,  "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_6_6",  "gx": 6,  "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_7_6",  "gx": 7,  "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_8_6",  "gx": 8,  "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_9_6",  "gx": 9,  "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_10_6", "gx": 10, "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_11_6", "gx": 11, "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_12_6", "gx": 12, "gy": 6, "textureKey": "wall_B_2",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_13_6", "gx": 13, "gy": 6, "textureKey": "wall_BR_2", "solid": true },
+
+    { "type": "WallTile", "name": "V_WallTile_0_1",  "gx": 0,  "gy": 1, "textureKey": "wall_L_1",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_0_2",  "gx": 0,  "gy": 2, "textureKey": "wall_L_1",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_0_3",  "gx": 0,  "gy": 3, "textureKey": "wall_L_1",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_0_4",  "gx": 0,  "gy": 4, "textureKey": "wall_L_1",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_0_5",  "gx": 0,  "gy": 5, "textureKey": "wall_L_1",  "solid": true },
+
+    { "type": "WallTile", "name": "V_WallTile_13_1", "gx": 13, "gy": 1, "textureKey": "wall_R_1",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_13_2", "gx": 13, "gy": 2, "textureKey": "wall_R_1",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_13_3", "gx": 13, "gy": 3, "textureKey": "wall_R_1",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_13_4", "gx": 13, "gy": 4, "textureKey": "wall_R_1",  "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_13_5", "gx": 13, "gy": 5, "textureKey": "wall_R_1",  "solid": true },
+
+    { "type": "WallTile", "name": "V_WallTile_0_0",  "gx": 0,  "gy": 0, "textureKey": "wall_TL",   "solid": true },
+    { "type": "WallTile", "name": "V_WallTile_13_0", "gx": 13, "gy": 0, "textureKey": "wall_TR",   "solid": true }
+  ]
+}

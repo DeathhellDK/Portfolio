@@ -1,0 +1,2263 @@
+{
+  "objects": [
+    {
+      "gx": 28,
+      "gy": 5,
+      "name": "V_WallTile_28_19",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 29,
+      "gy": 5,
+      "name": "V_WallTile_29_19",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 30,
+      "gy": 5,
+      "name": "V_WallTile_30_19",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 26,
+      "gy": 6,
+      "name": "V_WallTile_26_18",
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "gx": 27,
+      "gy": 5,
+      "name": "V_WallTile_27_19",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 26,
+      "gy": 5,
+      "name": "V_WallTile_26_19",
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 32,
+      "gy": 5,
+      "name": "V_WallTile_32_19",
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 31,
+      "gy": 5,
+      "name": "V_WallTile_31_19",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 32,
+      "gy": 6,
+      "name": "V_WallTile_32_18",
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 26,
+      "gy": 7,
+      "name": "V_WallTile_26_17",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 32,
+      "gy": 7,
+      "name": "V_WallTile_32_17",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 33,
+      "gy": 7,
+      "name": "V_WallTile_33_17",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 25,
+      "gy": 7,
+      "name": "V_WallTile_25_17",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 7,
+      "name": "V_WallTile_24_17",
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 8,
+      "name": "V_WallTile_24_16",
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 9,
+      "name": "V_WallTile_24_15",
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 7,
+      "name": "V_WallTile_34_17",
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 8,
+      "name": "V_WallTile_34_16",
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 9,
+      "name": "V_WallTile_34_15",
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 10,
+      "name": "V_WallTile_34_14",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 10,
+      "name": "V_WallTile_35_14",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 10,
+      "name": "V_WallTile_24_14",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 10,
+      "name": "V_WallTile_23_14",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 10,
+      "name": "V_WallTile_22_14",
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 11,
+      "name": "V_WallTile_22_13",
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 10,
+      "name": "V_WallTile_36_14",
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 11,
+      "name": "V_WallTile_36_13",
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 12,
+      "name": "V_WallTile_36_12",
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 13,
+      "name": "V_WallTile_36_11",
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 13,
+      "name": "V_WallTile_34_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 13,
+      "name": "V_WallTile_35_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 33,
+      "gy": 13,
+      "name": "V_WallTile_33_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 32,
+      "gy": 13,
+      "name": "V_WallTile_32_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 31,
+      "gy": 13,
+      "name": "V_WallTile_31_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 30,
+      "gy": 13,
+      "name": "V_WallTile_30_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 29,
+      "gy": 13,
+      "name": "V_WallTile_29_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 26,
+      "gy": 13,
+      "name": "V_WallTile_26_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 25,
+      "gy": 13,
+      "name": "V_WallTile_25_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 13,
+      "name": "V_WallTile_24_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 13,
+      "name": "V_WallTile_23_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 12,
+      "name": "V_WallTile_22_12",
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 13,
+      "name": "V_WallTile_22_11",
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 14,
+      "name": "V_WallTile_23_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 14,
+      "name": "V_WallTile_24_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 25,
+      "gy": 14,
+      "name": "V_WallTile_25_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 26,
+      "gy": 14,
+      "name": "V_WallTile_26_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 27,
+      "gy": 14,
+      "name": "V_WallTile_27_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 28,
+      "gy": 14,
+      "name": "V_WallTile_28_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 29,
+      "gy": 14,
+      "name": "V_WallTile_29_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 14,
+      "name": "V_WallTile_22_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 15,
+      "name": "V_WallTile_22_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 30,
+      "gy": 14,
+      "name": "V_WallTile_30_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 15,
+      "name": "V_WallTile_23_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 15,
+      "name": "V_WallTile_24_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 25,
+      "gy": 15,
+      "name": "V_WallTile_25_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 26,
+      "gy": 15,
+      "name": "V_WallTile_26_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 28,
+      "gy": 15,
+      "name": "V_WallTile_28_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 30,
+      "gy": 15,
+      "name": "V_WallTile_30_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 29,
+      "gy": 15,
+      "name": "V_WallTile_29_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 15,
+      "name": "V_WallTile_21_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 31,
+      "gy": 14,
+      "name": "V_WallTile_31_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 31,
+      "gy": 15,
+      "name": "V_WallTile_31_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 16,
+      "name": "V_WallTile_21_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 16,
+      "name": "V_WallTile_22_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 32,
+      "gy": 14,
+      "name": "V_WallTile_32_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 32,
+      "gy": 15,
+      "name": "V_WallTile_32_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 16,
+      "name": "V_WallTile_23_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 16,
+      "name": "V_WallTile_24_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 25,
+      "gy": 16,
+      "name": "V_WallTile_25_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 26,
+      "gy": 16,
+      "name": "V_WallTile_26_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 27,
+      "gy": 15,
+      "name": "V_WallTile_27_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 27,
+      "gy": 16,
+      "name": "V_WallTile_27_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 28,
+      "gy": 16,
+      "name": "V_WallTile_28_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 29,
+      "gy": 16,
+      "name": "V_WallTile_29_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 30,
+      "gy": 16,
+      "name": "V_WallTile_30_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 31,
+      "gy": 16,
+      "name": "V_WallTile_31_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 32,
+      "gy": 16,
+      "name": "V_WallTile_32_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 33,
+      "gy": 14,
+      "name": "V_WallTile_33_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 14,
+      "name": "V_WallTile_34_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 15,
+      "name": "V_WallTile_34_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 33,
+      "gy": 15,
+      "name": "V_WallTile_33_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 16,
+      "name": "V_WallTile_34_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 33,
+      "gy": 16,
+      "name": "V_WallTile_33_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 28,
+      "gy": 13,
+      "name": "V_WallTile_28_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 27,
+      "gy": 13,
+      "name": "V_WallTile_27_11",
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 15,
+      "name": "V_WallTile_20_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 15,
+      "name": "V_WallTile_19_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 15,
+      "name": "V_WallTile_18_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 17,
+      "gy": 15,
+      "name": "V_WallTile_17_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 16,
+      "gy": 15,
+      "name": "V_WallTile_16_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 14,
+      "name": "V_WallTile_21_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 14,
+      "name": "V_WallTile_20_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 13,
+      "name": "V_WallTile_21_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 13,
+      "name": "V_WallTile_20_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 14,
+      "name": "V_WallTile_19_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 14,
+      "name": "V_WallTile_18_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 16,
+      "gy": 14,
+      "name": "V_WallTile_16_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 17,
+      "gy": 14,
+      "name": "V_WallTile_17_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 16,
+      "gy": 13,
+      "name": "V_WallTile_16_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 17,
+      "gy": 13,
+      "name": "V_WallTile_17_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 13,
+      "name": "V_WallTile_18_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 13,
+      "name": "V_WallTile_19_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 12,
+      "name": "V_WallTile_21_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 11,
+      "name": "V_WallTile_21_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 10,
+      "name": "V_WallTile_21_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 11,
+      "name": "V_WallTile_20_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 12,
+      "name": "V_WallTile_20_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 12,
+      "name": "V_WallTile_19_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 17,
+      "gy": 12,
+      "name": "V_WallTile_17_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 12,
+      "name": "V_WallTile_18_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 16,
+      "gy": 12,
+      "name": "V_WallTile_16_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 11,
+      "name": "V_WallTile_19_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 10,
+      "name": "V_WallTile_20_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 11,
+      "name": "V_WallTile_18_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 10,
+      "name": "V_WallTile_19_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 17,
+      "gy": 11,
+      "name": "V_WallTile_17_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 16,
+      "gy": 11,
+      "name": "V_WallTile_16_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 16,
+      "gy": 10,
+      "name": "V_WallTile_16_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 17,
+      "gy": 10,
+      "name": "V_WallTile_17_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 10,
+      "name": "V_WallTile_18_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 9,
+      "name": "V_WallTile_23_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 9,
+      "name": "V_WallTile_22_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 9,
+      "name": "V_WallTile_21_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 16,
+      "gy": 9,
+      "name": "V_WallTile_16_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 16,
+      "gy": 8,
+      "name": "V_WallTile_16_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 17,
+      "gy": 8,
+      "name": "V_WallTile_17_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 17,
+      "gy": 9,
+      "name": "V_WallTile_17_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 9,
+      "name": "V_WallTile_19_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 9,
+      "name": "V_WallTile_20_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 9,
+      "name": "V_WallTile_18_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 8,
+      "name": "V_WallTile_18_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 8,
+      "name": "V_WallTile_19_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 8,
+      "name": "V_WallTile_20_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 8,
+      "name": "V_WallTile_21_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 8,
+      "name": "V_WallTile_22_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 8,
+      "name": "V_WallTile_23_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 6,
+      "name": "V_WallTile_24_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 25,
+      "gy": 6,
+      "name": "V_WallTile_25_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 25,
+      "gy": 5,
+      "name": "V_WallTile_25_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 5,
+      "name": "V_WallTile_24_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 7,
+      "name": "V_WallTile_23_17",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 7,
+      "name": "V_WallTile_22_17",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 7,
+      "name": "V_WallTile_21_17",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 7,
+      "name": "V_WallTile_20_17",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 7,
+      "name": "V_WallTile_19_17",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 7,
+      "name": "V_WallTile_18_17",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 6,
+      "name": "V_WallTile_18_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 6,
+      "name": "V_WallTile_19_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 6,
+      "name": "V_WallTile_20_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 6,
+      "name": "V_WallTile_21_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 6,
+      "name": "V_WallTile_23_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 6,
+      "name": "V_WallTile_22_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 5,
+      "name": "V_WallTile_23_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 26,
+      "gy": 4,
+      "name": "V_WallTile_26_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 25,
+      "gy": 4,
+      "name": "V_WallTile_25_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 4,
+      "name": "V_WallTile_24_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 4,
+      "name": "V_WallTile_23_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 4,
+      "name": "V_WallTile_22_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 4,
+      "name": "V_WallTile_18_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 5,
+      "name": "V_WallTile_21_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 5,
+      "name": "V_WallTile_22_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 5,
+      "name": "V_WallTile_20_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 18,
+      "gy": 5,
+      "name": "V_WallTile_18_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 5,
+      "name": "V_WallTile_19_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 4,
+      "name": "V_WallTile_21_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 4,
+      "name": "V_WallTile_20_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 19,
+      "gy": 4,
+      "name": "V_WallTile_19_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 27,
+      "gy": 4,
+      "name": "V_WallTile_27_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 30,
+      "gy": 4,
+      "name": "V_WallTile_30_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 3,
+      "name": "V_WallTile_20_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 3,
+      "name": "V_WallTile_21_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 20,
+      "gy": 2,
+      "name": "V_WallTile_20_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 21,
+      "gy": 2,
+      "name": "V_WallTile_21_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 3,
+      "name": "V_WallTile_22_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 3,
+      "name": "V_WallTile_23_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 25,
+      "gy": 3,
+      "name": "V_WallTile_25_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 3,
+      "name": "V_WallTile_24_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 26,
+      "gy": 3,
+      "name": "V_WallTile_26_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 27,
+      "gy": 3,
+      "name": "V_WallTile_27_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 28,
+      "gy": 4,
+      "name": "V_WallTile_28_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 29,
+      "gy": 4,
+      "name": "V_WallTile_29_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 30,
+      "gy": 3,
+      "name": "V_WallTile_30_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 22,
+      "gy": 2,
+      "name": "V_WallTile_22_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 23,
+      "gy": 2,
+      "name": "V_WallTile_23_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 24,
+      "gy": 2,
+      "name": "V_WallTile_24_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 25,
+      "gy": 2,
+      "name": "V_WallTile_25_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 26,
+      "gy": 2,
+      "name": "V_WallTile_26_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 27,
+      "gy": 2,
+      "name": "V_WallTile_27_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 28,
+      "gy": 3,
+      "name": "V_WallTile_28_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 28,
+      "gy": 2,
+      "name": "V_WallTile_28_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 29,
+      "gy": 3,
+      "name": "V_WallTile_29_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 29,
+      "gy": 2,
+      "name": "V_WallTile_29_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 30,
+      "gy": 2,
+      "name": "V_WallTile_30_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 31,
+      "gy": 2,
+      "name": "V_WallTile_31_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 32,
+      "gy": 2,
+      "name": "V_WallTile_32_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 33,
+      "gy": 3,
+      "name": "V_WallTile_33_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 33,
+      "gy": 2,
+      "name": "V_WallTile_33_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 31,
+      "gy": 3,
+      "name": "V_WallTile_31_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 32,
+      "gy": 3,
+      "name": "V_WallTile_32_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 31,
+      "gy": 4,
+      "name": "V_WallTile_31_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 32,
+      "gy": 4,
+      "name": "V_WallTile_32_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 33,
+      "gy": 4,
+      "name": "V_WallTile_33_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 33,
+      "gy": 5,
+      "name": "V_WallTile_33_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 33,
+      "gy": 6,
+      "name": "V_WallTile_33_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 3,
+      "name": "V_WallTile_34_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 3,
+      "name": "V_WallTile_35_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 3,
+      "name": "V_WallTile_36_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 3,
+      "name": "V_WallTile_37_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 3,
+      "name": "V_WallTile_38_21",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 2,
+      "name": "V_WallTile_38_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 2,
+      "name": "V_WallTile_37_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 2,
+      "name": "V_WallTile_36_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 2,
+      "name": "V_WallTile_35_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 2,
+      "name": "V_WallTile_34_22",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 4,
+      "name": "V_WallTile_38_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 4,
+      "name": "V_WallTile_37_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 5,
+      "name": "V_WallTile_38_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 5,
+      "name": "V_WallTile_37_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 4,
+      "name": "V_WallTile_36_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 4,
+      "name": "V_WallTile_34_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 4,
+      "name": "V_WallTile_35_20",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 5,
+      "name": "V_WallTile_36_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 5,
+      "name": "V_WallTile_34_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 5,
+      "name": "V_WallTile_35_19",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 6,
+      "name": "V_WallTile_38_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 7,
+      "name": "V_WallTile_38_17",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 8,
+      "name": "V_WallTile_38_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 9,
+      "name": "V_WallTile_38_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 7,
+      "name": "V_WallTile_36_17",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 6,
+      "name": "V_WallTile_37_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 6,
+      "name": "V_WallTile_36_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 6,
+      "name": "V_WallTile_35_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 34,
+      "gy": 6,
+      "name": "V_WallTile_34_18",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 7,
+      "name": "V_WallTile_37_17",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 7,
+      "name": "V_WallTile_35_17",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 8,
+      "name": "V_WallTile_37_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 8,
+      "name": "V_WallTile_36_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 9,
+      "name": "V_WallTile_37_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 9,
+      "name": "V_WallTile_36_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 8,
+      "name": "V_WallTile_35_16",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 9,
+      "name": "V_WallTile_35_15",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 10,
+      "name": "V_WallTile_38_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 10,
+      "name": "V_WallTile_37_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 11,
+      "name": "V_WallTile_38_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 11,
+      "name": "V_WallTile_37_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 12,
+      "name": "V_WallTile_38_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 12,
+      "name": "V_WallTile_37_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 40,
+      "gy": 10,
+      "name": "V_WallTile_40_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 41,
+      "gy": 10,
+      "name": "V_WallTile_41_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 42,
+      "gy": 10,
+      "name": "V_WallTile_42_14",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 41,
+      "gy": 11,
+      "name": "V_WallTile_41_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 42,
+      "gy": 11,
+      "name": "V_WallTile_42_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 40,
+      "gy": 11,
+      "name": "V_WallTile_40_13",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 41,
+      "gy": 12,
+      "name": "V_WallTile_41_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 42,
+      "gy": 12,
+      "name": "V_WallTile_42_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 41,
+      "gy": 13,
+      "name": "V_WallTile_41_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 14,
+      "name": "V_WallTile_37_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 13,
+      "name": "V_WallTile_38_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 13,
+      "name": "V_WallTile_37_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 14,
+      "name": "V_WallTile_38_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 14,
+      "name": "V_WallTile_35_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 14,
+      "name": "V_WallTile_36_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 15,
+      "name": "V_WallTile_38_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 15,
+      "name": "V_WallTile_37_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 15,
+      "name": "V_WallTile_36_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 38,
+      "gy": 16,
+      "name": "V_WallTile_38_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 37,
+      "gy": 16,
+      "name": "V_WallTile_37_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 36,
+      "gy": 16,
+      "name": "V_WallTile_36_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 40,
+      "gy": 12,
+      "name": "V_WallTile_40_12",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 42,
+      "gy": 13,
+      "name": "V_WallTile_42_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 42,
+      "gy": 14,
+      "name": "V_WallTile_42_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 41,
+      "gy": 14,
+      "name": "V_WallTile_41_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 40,
+      "gy": 13,
+      "name": "V_WallTile_40_11",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 40,
+      "gy": 14,
+      "name": "V_WallTile_40_10",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 42,
+      "gy": 15,
+      "name": "V_WallTile_42_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 41,
+      "gy": 15,
+      "name": "V_WallTile_41_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 15,
+      "name": "V_WallTile_35_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 35,
+      "gy": 16,
+      "name": "V_WallTile_35_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 40,
+      "gy": 15,
+      "name": "V_WallTile_40_9",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 41,
+      "gy": 16,
+      "name": "V_WallTile_41_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 42,
+      "gy": 16,
+      "name": "V_WallTile_42_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "gx": 40,
+      "gy": 16,
+      "name": "V_WallTile_40_8",
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    }
+  ],
+  "scene": "entities_Level4",
+  "tileSize": 100.0,
+  "version": 1
+}

@@ -1,0 +1,31 @@
+# Automatically detect text files and normalize to LF in repo
+* text=auto
+
+# C/C++ source files
+*.cpp text eol=lf
+*.c   text eol=lf
+*.h   text eol=lf
+*.hpp text eol=lf
+
+# CMake
+CMakeLists.txt text eol=lf
+*.cmake text eol=lf
+
+# Shader files (if you have OpenGL shaders)
+*.vert text eol=lf
+*.frag text eol=lf
+*.glsl text eol=lf
+
+# Windows batch scripts should stay CRLF
+*.bat text eol=crlf
+
+# Treat binaries properly (avoid corruption)
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.bmp  binary
+*.ico  binary
+*.dll  binary
+*.exe  binary
+*.lib  binary
+*.pdf  binary

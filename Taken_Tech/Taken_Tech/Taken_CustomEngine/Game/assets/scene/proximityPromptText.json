@@ -1,0 +1,126 @@
+{
+  "kinds": {
+    "MutationHealer": {
+      "first": "Could this be something I can use to remove \n all that I have absorbed...?",
+      "repeat": "Pressing F in this area will remove all \n sorts of mutation I’ve absorbed",
+      "font": "default",
+      "size": 48,
+      "range": 160,
+      "rgba": "FFFFFFFF"
+    },
+    "Lever": {
+      "text": "Looks like a lever of sort \n Maybe something would happen If I interact (F) with it ...",
+      "font": "default",
+      "size": 48,
+      "range": 60,
+      "rgba": "FFFFFFFF"
+    },
+    "Switch": {
+      "text": "Looks like a switch of sort \n Maybe something would happen If I interact (F) with it ...",
+      "font": "default",
+      "size": 48,
+      "range": 60,
+      "rgba": "FFFFFFFF"
+    },
+    "HealingMemory": {
+      "text": "If using this monster's ability restores my HP, \n maybe if I used it on the soldier I could restore something...?",
+      "font": "default",
+      "size": 48,
+      "range": 60,
+      "rgba": "FFFFFFFF"
+    },
+    "BurrowFloor": {
+      "text": "If I step on this I will be in serious trouble... \n Is there any way I can go UNDER it?",
+      "font": "default",
+      "size": 48,
+      "range": 150,
+      "rgba": "FFFFFFFF"
+    },
+    "BurrowWall": {
+      "text": "This wall is blocking my way... \n Is there any way I can go UNDER it?",
+      "font": "default",
+      "size": 48,
+      "range": 150,
+      "rgba": "FFFFFFFF"
+    }
+  },
+  "events": {
+    "FirstAbsorb": {
+      "text": "I got a feeling i can use this \n monster's abilities if I absorb it (F)...",
+      "font": "default",
+      "size": 48,
+      "range": 240,
+      "rgba": "FFFFFFFF"
+    },
+    "SpawnIntro": {
+      "text": "How did I get here? Did I enter the book? \n I gotta find a way to get out… I have a weapon with me?",
+      "font": "default",
+      "size": 48,
+      "range": 400,
+      "rgba": "FFFFFFFF"
+    },
+    "FirstMonsterEncounter": {
+      "text": "Is that monster moving towards me?? Guess I’ll fight my way through",
+      "font": "default",
+      "size": 48,
+      "range": 400,
+      "rgba": "FFFFFFFF"
+    },
+    "FirstKeyDrop": {
+      "text": "I guess there are more rooms? \n Well let’s see where this takes me then.",
+      "font": "default",
+      "size": 48,
+      "range": 500,
+      "rgba": "FFFFFFFF"
+    },
+    "SecondKeyDrop": {
+      "text": "There are still more rooms?? \n It’s only getting harder and harder..",
+      "font": "default",
+      "size": 48,
+      "range": 500,
+      "rgba": "FFFFFFFF"
+    },
+    "ThirdKeyDrop": {
+      "text": "Please just let me get out of here…",
+      "font": "default",
+      "size": 48,
+      "range": 500,
+      "rgba": "FFFFFFFF"
+    },
+    "GeneratorRoom1": {
+      "first": "There are a couple of these in this labyrinth, \n WAIT! Looks like I need to do something to turn them all on?",
+      "repeat": "I think I could use this monster's ability \n to turn the generators on...",
+      "delay": 6,
+      "enemyRadius": 600,
+      "font": "default",
+      "size": 48,
+      "range": 400,
+      "rgba": "FFFFFFFF"
+    },
+    "Room5Sequence": {
+      "tileSize": 100,
+      "gridHeight": 25,
+      "font": "default",
+      "size": 48,
+      "range": 250,
+      "rgba": "FFFFFFFF",
+      "steps": [
+        {
+          "wx": 325,
+          "wy": 1498,
+          "text": "Is this a dead end? It can’t be… What about the top?"
+        },
+        {
+          "wx": 325,
+          "wy": 2120,
+          "text": "Nothing up here too… what about below?"
+        },
+        {
+          "wx": 325,
+          "wy": 1100,
+          "text": "There’s really no way out…"
+        }
+      ]
+    }
+  }
+}

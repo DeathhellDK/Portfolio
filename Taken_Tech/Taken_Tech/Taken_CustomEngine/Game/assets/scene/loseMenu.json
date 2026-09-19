@@ -1,0 +1,67 @@
+{
+  "background": {
+    "texture": "LoseScreen"
+  },
+  "buttons": {
+    "btnRelSize": {
+      "x": 0.10000000149011612,
+      "y": 0.07999999821186066
+    },
+    "items": [
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "lose.retry",
+        "label": "Retry",
+        "relPos": {
+          "x": 0.800000011920929,
+          "y": 0.47999998927116394
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "lose.main",
+        "label": "Main Menu",
+        "relPos": {
+          "x": 0.800000011920929,
+          "y": 0.36000001430511475
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "lose.quit",
+        "label": "Quit Game",
+        "relPos": {
+          "x": 0.800000011920929,
+          "y": 0.23999999463558197
+        },
+        "textColor": 4294967295
+      }
+    ],
+    "mainRelPos": {
+      "x": 0.800000011920929,
+      "y": 0.36000001430511475
+    },
+    "quitRelPos": {
+      "x": 0.800000011920929,
+      "y": 0.23999999463558197
+    },
+    "retryRelPos": {
+      "x": 0.800000011920929,
+      "y": 0.47999998927116394
+    },
+    "texture": "menu_button"
+  },
+  "title": {
+    "color": 4294967295,
+    "font": "default",
+    "id": "lose.title",
+    "relY": 0.8999999761581421,
+    "size": 100.0,
+    "text": "YOU DIED"
+  }
+}

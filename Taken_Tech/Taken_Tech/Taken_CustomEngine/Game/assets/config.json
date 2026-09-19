@@ -1,0 +1,25 @@
+{
+  "window": {
+    "width": 1400,
+    "height": 700,
+    "fullscreen": true
+  },
+  "camera": {
+    "zoom": 1.0,
+    "pos": [ 0, 0 ]
+  },
+  "colors": [
+    [ 1.0, 1.0, 1.0 ],
+    [ 1.0, 1.0, 1.0 ],
+    [ 1.0, 1.0, 1.0 ],
+    [ 1.0, 1.0, 1.0 ]
+  ],
+  "systems": {
+    "movement": true,
+    "collision": true,
+    "render": true,
+    "animation": true,
+    "emitter": true,
+    "light": true
+  }
+}

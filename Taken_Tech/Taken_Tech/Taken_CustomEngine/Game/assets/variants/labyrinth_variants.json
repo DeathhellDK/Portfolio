@@ -1,0 +1,5389 @@
+{
+  "objects": [
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 7,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWallRemoved_7_22",
+      "removed": true,
+      "solid": false,
+      "textureKey": "",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_25",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 12,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "LabyrinthWall_12_25",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_25",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 14,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "LabyrinthWall_14_25",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_25",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_24",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_23",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 14,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_14_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_24",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 12,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "LabyrinthWall_12_24",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_24",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 14,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "LabyrinthWall_14_24",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 14,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "LabyrinthWall_14_23",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 12,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "LabyrinthWall_12_23",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_23",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_23",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 12,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_12_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_25",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_24",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_23",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 5,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "LabyrinthWallRemoved_5_23",
+      "removed": true,
+      "solid": false,
+      "textureKey": "",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 7,
+      "gy": 1,
+      "hasSignature": false,
+      "name": "LabyrinthWall_7_28",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 7,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "LabyrinthWallRemoved_7_26",
+      "removed": true,
+      "solid": false,
+      "textureKey": "",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 1,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "LabyrinthWallRemoved_1_27",
+      "removed": true,
+      "solid": false,
+      "textureKey": "",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 1,
+      "gy": 1,
+      "hasSignature": false,
+      "name": "LabyrinthWallRemoved_1_28",
+      "removed": true,
+      "solid": false,
+      "textureKey": "",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 2,
+      "gy": 1,
+      "hasSignature": false,
+      "name": "LabyrinthWall_2_28",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 2,
+      "gy": 0,
+      "hasSignature": false,
+      "name": "LabyrinthWall_2_29",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 3,
+      "gy": 0,
+      "hasSignature": false,
+      "name": "LabyrinthWall_3_29",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 3,
+      "gy": 1,
+      "hasSignature": false,
+      "name": "LabyrinthWall_3_28",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 3,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "LabyrinthWall_3_27",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BR_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 2,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "LabyrinthWall_2_27",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BL_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 1,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_28",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_27",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_26",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 0,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_29",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 1,
+      "gy": 0,
+      "hasSignature": false,
+      "name": "LabyrinthWall_1_29",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BL_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_25",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 1,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "LabyrinthWallRemoved_1_25",
+      "removed": true,
+      "solid": false,
+      "textureKey": "",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_24",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_23",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 3,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "LabyrinthWallRemoved_3_24",
+      "removed": true,
+      "solid": false,
+      "textureKey": "",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 2,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWall_2_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 2,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "LabyrinthWall_2_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 1,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWall_1_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 6,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_6_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 6,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_6_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 5,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_5_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BL_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 5,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_5_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 5,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_5_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 6,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_6_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 6,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWall_6_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 7,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_7_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 8,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_8_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 9,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_9_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 9,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_9_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 9,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWall_9_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 9,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "LabyrinthWall_9_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 7,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "LabyrinthWall_7_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 8,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "LabyrinthWall_8_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 8,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWall_8_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 8,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_8_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 7,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_7_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 7,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWall_7_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 16,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "LabyrinthWall_16_25",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 16,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "LabyrinthWall_16_24",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 16,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "LabyrinthWall_16_23",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 16,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_16_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 16,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "LabyrinthWall_16_26",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_26",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "LabyrinthWall_24_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "LabyrinthWall_24_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_24_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_24_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "LabyrinthWall_23_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_23_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "LabyrinthWall_23_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_23_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "LabyrinthWall_22_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "LabyrinthWall_22_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_22_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_22_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_21_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_21_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_24_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "LabyrinthWall_21_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "LabyrinthWall_21_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "LabyrinthWall_20_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "LabyrinthWall_20_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_20_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_20_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWallRemoved_13_16",
+      "removed": true,
+      "solid": false,
+      "textureKey": "",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BR_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 14,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "LabyrinthWall_14_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BR_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 14,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_14_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 14,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "LabyrinthWall_14_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 14,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "LabyrinthWall_14_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 16,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "LabyrinthWall_16_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 17,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "LabyrinthWall_17_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "LabyrinthWall_18_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "LabyrinthWall_18_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "LabyrinthWall_18_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "LabyrinthWall_18_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 17,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "LabyrinthWall_17_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 17,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "LabyrinthWall_17_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 17,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "LabyrinthWall_17_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 16,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "LabyrinthWall_16_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 16,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "LabyrinthWall_16_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 16,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "LabyrinthWall_16_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 14,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "LabyrinthWall_14_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 14,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "LabyrinthWall_14_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWallRemoved_19_16",
+      "removed": true,
+      "solid": false,
+      "textureKey": "",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 0,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_29",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 1,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_28",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_27",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_26",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_25",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_24",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 21,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 22,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 23,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 24,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 25,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 26,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_3",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 27,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_2",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 28,
+      "hasSignature": false,
+      "name": "LabyrinthWall_29_1",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 26,
+      "hasSignature": false,
+      "name": "LabyrinthWall_27_3",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 17,
+      "gy": 24,
+      "hasSignature": false,
+      "name": "LabyrinthWall_17_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 24,
+      "hasSignature": false,
+      "name": "LabyrinthWall_18_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 25,
+      "hasSignature": false,
+      "name": "LabyrinthWall_18_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 17,
+      "gy": 25,
+      "hasSignature": false,
+      "name": "LabyrinthWall_17_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 21,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 8,
+      "gy": 21,
+      "hasSignature": false,
+      "name": "LabyrinthWall_8_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 9,
+      "gy": 22,
+      "hasSignature": false,
+      "name": "LabyrinthWall_9_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 9,
+      "gy": 21,
+      "hasSignature": false,
+      "name": "LabyrinthWall_9_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 22,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 12,
+      "gy": 22,
+      "hasSignature": false,
+      "name": "LabyrinthWall_12_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 22,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 12,
+      "gy": 23,
+      "hasSignature": false,
+      "name": "LabyrinthWall_12_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 24,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 12,
+      "gy": 24,
+      "hasSignature": false,
+      "name": "LabyrinthWall_12_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 11,
+      "gy": 23,
+      "hasSignature": false,
+      "name": "LabyrinthWall_11_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 23,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 9,
+      "gy": 23,
+      "hasSignature": false,
+      "name": "LabyrinthWall_9_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 10,
+      "gy": 24,
+      "hasSignature": false,
+      "name": "LabyrinthWall_10_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 9,
+      "gy": 24,
+      "hasSignature": false,
+      "name": "LabyrinthWall_9_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 8,
+      "gy": 24,
+      "hasSignature": false,
+      "name": "LabyrinthWall_8_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 22,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 23,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 24,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 7,
+      "gy": 26,
+      "hasSignature": false,
+      "name": "LabyrinthWall_7_3",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 8,
+      "gy": 25,
+      "hasSignature": false,
+      "name": "LabyrinthWall_8_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 13,
+      "gy": 25,
+      "hasSignature": false,
+      "name": "LabyrinthWall_13_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 25,
+      "hasSignature": false,
+      "name": "LabyrinthWallRemoved_15_4",
+      "removed": true,
+      "solid": false,
+      "textureKey": "",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 27,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_2",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 26,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_3",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 28,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_1",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 25,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 24,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 23,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 22,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 21,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 5,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "LabyrinthWall_5_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 5,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "LabyrinthWall_5_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 0,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "LabyrinthWall_0_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 4,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "LabyrinthWall_4_22",
+      "removed": false,
+      "solid": false,
+      "textureKey": "MutationHealer",
+      "type": "MutationHealer"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "LabyrinthWall_18_19",
+      "removed": false,
+      "solid": false,
+      "textureKey": "MutationHealer",
+      "type": "MutationHealer"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 1,
+      "hasSignature": false,
+      "name": "LabyrinthWall_28_28",
+      "removed": false,
+      "solid": false,
+      "textureKey": "MutationHealer",
+      "type": "MutationHealer"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "LabyrinthWall_26_15",
+      "removed": false,
+      "solid": false,
+      "textureKey": "MutationHealer",
+      "type": "MutationHealer"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 27,
+      "hasSignature": false,
+      "name": "LabyrinthWall_19_2",
+      "removed": false,
+      "solid": false,
+      "textureKey": "MutationHealer",
+      "type": "MutationHealer"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 3,
+      "gy": 27,
+      "hasSignature": false,
+      "name": "LabyrinthWall_3_2",
+      "removed": false,
+      "solid": false,
+      "textureKey": "MutationHealer",
+      "type": "MutationHealer"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 4,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "LabyrinthWall_4_10",
+      "removed": false,
+      "solid": false,
+      "textureKey": "MutationHealer",
+      "type": "MutationHealer"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 15,
+      "gy": 1,
+      "hasSignature": false,
+      "name": "LabyrinthWall_15_28",
+      "removed": false,
+      "solid": false,
+      "textureKey": "MutationHealer",
+      "type": "MutationHealer"
+    }
+  ],
+  "scene": "labyrinth",
+  "tileSize": 100.0,
+  "version": 1
+}

@@ -1,0 +1,28 @@
+{
+  "intro": {
+    "slides": [
+      { "texture": "Cutscene1", "seconds": 4 },
+      { "texture": "Cutscene2", "seconds": 5 },
+      { "texture": "Cutscene3", "seconds": 6, "fadeOutSeconds": 3.0 }
+    ],
+    "gameplayFadeInSeconds": 3.0
+  },
+  "end": {
+    "slides": [
+      {
+        "texture": "EndCutscene1",
+        "seconds": 5.0,
+        "fadeInSeconds": 3
+      },
+      {
+        "texture": "EndCutscene2",
+        "seconds": 5.0
+      },
+      {
+        "texture": "EndCutscene3",
+        "seconds": 6.0,
+        "fadeOutSeconds": 3.0
+      }
+    ]
+  }
+}

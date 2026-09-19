@@ -1,0 +1,16 @@
+*.ipch
+*.suo
+*.db
+*.pdb
+*.ilk
+.vs
+.tmp
+*.tlog
+*.obj
+*.idb
+*.log
+*.exp
+*.iobj
+*.ipdb
+Debug
+out

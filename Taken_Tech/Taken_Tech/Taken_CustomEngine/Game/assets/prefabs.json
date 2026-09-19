@@ -1,0 +1,552 @@
+{
+  "prefabs": {
+    "BlackTile": {
+      "colliderType": "Box",
+      "color": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "isTrigger": false,
+      "meshIndex": 0,
+      "scale": [
+        100.0,
+        100.0
+      ]
+    },
+    "Boss": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": false,
+      "meshIndex": 1,
+      "scale": [
+        145.0,
+        80.0
+      ],
+      "texture": "Boss"
+    },
+    "BurrowWall": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": false,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "BurrowWall"
+    },
+    "Crate": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": false,
+      "meshIndex": 1,
+      "scale": [
+        80.0,
+        80.0
+      ],
+      "texture": "crate"
+    },
+    "DoorLock": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": false,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "DoorLock"
+    },
+    "Doorway": {
+      "colliderType": "Box",
+      "color": [
+        0.699999988079071,
+        0.699999988079071,
+        1.0
+      ],
+      "isTrigger": false,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "door"
+    },
+    "EnemyContact": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": false,
+      "meshIndex": 1,
+      "scale": [
+        80.0,
+        80.0
+      ],
+      "texture": "enemy"
+    },
+    "Floor_Tile_Fragile": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "Floor_Tile_Fragile"
+    },
+    "Key": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        40.0,
+        40.0
+      ],
+      "texture": "YellowKey"
+    },
+    "Key_Burrow": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        40.0,
+        40.0
+      ],
+      "texture": "BlackKey"
+    },
+    "Key_Heal": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        40.0,
+        40.0
+      ],
+      "texture": "GreenKey"
+    },
+    "Key_Projectile": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        40.0,
+        40.0
+      ],
+      "texture": "RedKey"
+    },
+    "Lever": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "Lever"
+    },
+    "LeverActivated": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "LeverActivated"
+    },
+    "MutationHealer": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "mutationHealer"
+    },
+    "Player": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emitter": {
+        "color": [
+          [
+            0.800000011920929,
+            0.800000011920929,
+            0.800000011920929
+          ],
+          [
+            0.0,
+            0.0,
+            0.0
+          ]
+        ],
+        "enabled": true,
+        "meshIndex": 1,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "particleLife": 0.20000000298023224,
+        "rate": 20.0,
+        "sizeEnd": 1.0,
+        "sizeStart": 8.0,
+        "texture": "player_idle_right",
+        "velMax": [
+          20.0,
+          60.0
+        ],
+        "velMin": [
+          -25.0,
+          40.0
+        ]
+      },
+      "isTrigger": false,
+      "light": {
+        "ember": {
+          "additive": true,
+          "colorEnd": [
+            0.30000001192092896,
+            0.10000000149011612,
+            0.0
+          ],
+          "colorStart": [
+            1.0,
+            0.800000011920929,
+            0.5
+          ],
+          "enabled": false,
+          "offset": [
+            0.0,
+            0.0
+          ],
+          "particleLife": 0.800000011920929,
+          "rate": 20.0,
+          "sizeEnd": 1.0,
+          "sizeStart": 6.0,
+          "velMax": [
+            20.0,
+            60.0
+          ],
+          "velMin": [
+            -20.0,
+            30.0
+          ]
+        },
+        "enabled": true,
+        "flicker": {
+          "enabled": false,
+          "intensityMax": 1.0,
+          "intensityMin": 0.800000011920929,
+          "speed": 5.0
+        },
+        "glow": {
+          "color": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "enabled": false,
+          "intensity": 1.0,
+          "offset": [
+            0.0,
+            0.0
+          ],
+          "opacity": 0.3499999940395355,
+          "radius": 0.0,
+          "softness": 2.0
+        },
+        "source": {
+          "attenuation": 0.0,
+          "color": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "enabled": true,
+          "intensity": 1.5,
+          "offset": [
+            0.0,
+            0.0
+          ],
+          "opacity": 0.25,
+          "radius": 100.0
+        }
+      },
+      "meshIndex": 0,
+      "scale": [
+        50.0,
+        80.0
+      ]
+    },
+    "PuzzleGenerator": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "PuzzleGenerator"
+    },
+    "PuzzleGenerator_On": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "PuzzleGenerator_On"
+    },
+    "Torch": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "light": {
+        "ember": {
+          "additive": true,
+          "colorEnd": [
+            0.20000000298023224,
+            0.10000000149011612,
+            0.0
+          ],
+          "colorStart": [
+            1.0,
+            0.800000011920929,
+            0.4000000059604645
+          ],
+          "enabled": true,
+          "offset": [
+            40.0,
+            50.0
+          ],
+          "particleLife": 0.8999999761581421,
+          "rate": 6.0,
+          "sizeEnd": 1.0,
+          "sizeStart": 5.0,
+          "velMax": [
+            20.0,
+            70.0
+          ],
+          "velMin": [
+            -20.0,
+            40.0
+          ]
+        },
+        "enabled": true,
+        "flicker": {
+          "enabled": true,
+          "intensityMax": 1.5,
+          "intensityMin": 0.800000011920929,
+          "speed": 1.0
+        },
+        "glow": {
+          "color": [
+            1.0,
+            0.8500000238418579,
+            0.550000011920929
+          ],
+          "enabled": true,
+          "intensity": 1.0,
+          "offset": [
+            0.0,
+            0.0
+          ],
+          "opacity": 0.3499999940395355,
+          "radius": 48.0,
+          "softness": 2.5
+        },
+        "source": {
+          "attenuation": 0.0,
+          "color": [
+            1.0,
+            0.8999999761581421,
+            0.699999988079071
+          ],
+          "enabled": true,
+          "intensity": 1.5,
+          "offset": [
+            0.0,
+            0.0
+          ],
+          "opacity": 0.25,
+          "radius": 180.0
+        }
+      },
+      "meshIndex": 1,
+      "scale": [
+        80.0,
+        80.0
+      ],
+      "texture": "torch"
+    },
+    "Wall": {
+      "colliderType": "Box",
+      "color": [
+        0.6000000238418579,
+        0.6000000238418579,
+        0.6000000238418579
+      ],
+      "isTrigger": false,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "wall"
+    },
+    "burrow_mini_boss": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": false,
+      "meshIndex": 1,
+      "scale": [
+        80.0,
+        80.0
+      ],
+      "texture": "burrow_mini_boss"
+    },
+    "heal_mini_boss": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": false,
+      "meshIndex": 1,
+      "scale": [
+        80.0,
+        80.0
+      ],
+      "texture": "heal_mini_boss"
+    },
+    "healingMemory": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "healingMemory"
+    },
+    "healingMemory_On": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": true,
+      "meshIndex": 1,
+      "scale": [
+        100.0,
+        100.0
+      ],
+      "texture": "healingMemory_On"
+    },
+    "ranged_mini_boss": {
+      "colliderType": "Box",
+      "color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "isTrigger": false,
+      "meshIndex": 1,
+      "scale": [
+        80.0,
+        80.0
+      ],
+      "texture": "ranged_mini_boss"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+    "textbox": {
+        "texture": "Text_box",
+        "relPos": { "x": 0.5, "y": 0.85 },
+        "relSize": { "x": 0.75, "y": 0.2 },
+        "text": "Current ability that is gained through absorbing enemy is shown below the health bar",
+        "textSize": 45.0
+    },
+    "map": {
+        "tileSize": 100.0,
+        "generateRoom": true,
+        "roomWidth": 14,
+        "roomHeight": 7,
+        "gridFile": "maps/tutorial/tut5.txt"
+    },
+    "buttons": [
+        {
+            "id": "prev",
+            "relPos": [ 0.72, 0.05 ],
+            "relSize": [ 0.12, 0.05 ],
+            "fontSize": 30.0
+        },
+        {
+            "id": "next",
+            "relPos": [ 0.85, 0.05 ],
+            "relSize": [ 0.12, 0.05 ],
+            "fontSize": 30.0
+        }
+    ],
+    "entities": [
+        {
+            "name": "Torch_3_3",
+            "prefab": "Torch",
+            "position": [ 300.0, 400.0 ],
+            "scale": [ 80.0, 80.0 ]
+        }
+    ]
+}

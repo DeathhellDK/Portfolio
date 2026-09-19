@@ -1,0 +1,128 @@
+{
+  "arrows": {
+    "items": [
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "pause.arrowLeft",
+        "label": "<",
+        "textColor": 25600
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "pause.arrowRight",
+        "label": ">",
+        "textColor": 4294967295
+      }
+    ],
+    "leftOffsetPx": {
+      "x": -50.0,
+      "y": -20.0
+    },
+    "rightOffsetPx": {
+      "x": 10.0,
+      "y": -20.0
+    },
+    "sizePx": {
+      "x": 40.0,
+      "y": 40.0
+    },
+    "texture": "menu_button"
+  },
+  "buttons": {
+    "btnRelSize": {
+      "x": 0.25,
+      "y": 0.20000000298023224
+    },
+    "items": [
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "pause.resume",
+        "label": "Resume Game",
+        "relPos": {
+          "x": 0.11999999731779099,
+          "y": 0.15000000596046448
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "pause.main",
+        "label": "Main Menu",
+        "relPos": {
+          "x": 0.375,
+          "y": 0.15000000596046448
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "pause.quit",
+        "label": "Quit",
+        "relPos": {
+          "x": 0.6299999952316284,
+          "y": 0.15000000596046448
+        },
+        "textColor": 4294967295
+      }
+    ],
+    "mainRelPos": {
+      "x": 0.375,
+      "y": 0.15000000596046448
+    },
+    "quitRelPos": {
+      "x": 0.6299999952316284,
+      "y": 0.15000000596046448
+    },
+    "resumeRelPos": {
+      "x": 0.11999999731779099,
+      "y": 0.15000000596046448
+    },
+    "texture": "menu_button"
+  },
+  "panel": {
+    "hRel": 0.5,
+    "wRel": 0.699999988079071
+  },
+  "slideshow": {
+    "hRel": 0.4000000059604645,
+    "slides": [
+      {
+        "caption": "Control player using WASD keys.",
+        "captionColor": 4294967295,
+        "captionFont": "default",
+        "captionFontSizeRel": 0.10000000149011612,
+        "texture": "how_to_play_WASD"
+      },
+      {
+        "caption": "Navigate through doors.",
+        "captionColor": 4294967295,
+        "captionFont": "default",
+        "captionFontSizeRel": 0.10000000149011612,
+        "texture": "how_to_play_navigate"
+      },
+      {
+        "caption": "Defeat enemies!",
+        "captionColor": 4294967295,
+        "captionFont": "default",
+        "captionFontSizeRel": 0.10000000149011612,
+        "texture": "how_to_play_enemies"
+      }
+    ],
+    "wRel": 0.6000000238418579,
+    "xRel": 0.20000000298023224,
+    "yRel": 0.41999998688697815
+  },
+  "title": {
+    "color": 4294967295,
+    "font": "default",
+    "id": "pause.title",
+    "size": 32.0,
+    "text": "HOW TO PLAY",
+    "yRel": 0.949999988079071
+  }
+}

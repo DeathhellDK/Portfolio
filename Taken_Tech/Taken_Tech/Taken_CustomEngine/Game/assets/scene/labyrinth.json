@@ -1,0 +1,14 @@
+{
+  "map": {
+    "tileSize": 100,
+    "generateMaze": true,
+    "worldSizePx": 1800
+  },
+  "objects": [
+    {
+      "prefab": "Player",
+      "name": "Player",
+      "position": [ 200, 150 ]
+    }
+  ]
+}

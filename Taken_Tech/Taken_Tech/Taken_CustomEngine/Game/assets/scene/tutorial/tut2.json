@@ -1,0 +1,44 @@
+{
+    "textbox": {
+        "texture": "Text_box",
+        "relPos": { "x": 0.5, "y": 0.85 },
+        "relSize": { "x": 0.75, "y": 0.2 },
+        "text": "Defeat enemies to gain their power\nLeft click for melee attack",
+        "textSize": 45.0
+    },
+    "map": {
+        "tileSize": 100.0,
+        "generateRoom": true,
+        "roomWidth": 14,
+        "roomHeight": 7,
+        "gridFile": "maps/tutorial/tut2.txt"
+    },
+    "buttons": [
+        {
+            "id": "prev",
+            "relPos": [ 0.72, 0.05 ],
+            "relSize": [ 0.12, 0.05 ],
+            "fontSize": 30.0
+        },
+        {
+            "id": "next",
+            "relPos": [ 0.85, 0.05 ],
+            "relSize": [ 0.12, 0.05 ],
+            "fontSize": 30.0
+        }
+    ],
+    "entities": [
+        {
+            "name": "TutorialEnemy",
+            "prefab": "ranged_mini_boss",
+            "position": [ 1000.0, 300.0 ],
+            "scale": [ 60.0, 60.0 ]
+        },
+        {
+            "name": "Torch_3_3",
+            "prefab": "Torch",
+            "position": [ 300.0, 400.0 ],
+            "scale": [ 80.0, 80.0 ]
+        }
+    ]
+}

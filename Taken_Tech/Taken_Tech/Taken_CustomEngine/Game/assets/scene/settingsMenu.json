@@ -1,0 +1,96 @@
+{
+  "audio": {
+    "label": {
+      "id": "Settings.Audio.Label",
+      "offsetRel": {
+        "x": -0.11999999731779099,
+        "y": 0.007000000216066837
+      }
+    },
+    "slider": {
+      "barColor": 4284047705,
+      "knobColor": 4294967295,
+      "knobDragColor": 4294940979,
+      "relPos": {
+        "x": 0.550000011920929,
+        "y": 0.550000011920929
+      },
+      "relSize": {
+        "x": 0.30000001192092896,
+        "y": 0.03999999910593033
+      }
+    }
+  },
+  "background": {
+    "texture": ""
+  },
+  "buttons": {
+    "audioRelPos": {
+      "x": 0.05000000074505806,
+      "y": 0.6000000238418579
+    },
+    "backRelPos": {
+      "x": 0.05000000074505806,
+      "y": 0.05000000074505806
+    },
+    "btnRelSize": {
+      "x": 0.18000000715255737,
+      "y": 0.07000000029802322
+    },
+    "controlsRelPos": {
+      "x": 0.05000000074505806,
+      "y": 0.699999988079071
+    },
+    "gameplayRelPos": {
+      "x": 0.05000000074505806,
+      "y": 0.800000011920929
+    },
+    "items": [
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "Settings.Nav.Gameplay",
+        "label": "Gameplay",
+        "relPos": {
+          "x": 0.05000000074505806,
+          "y": 0.800000011920929
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "Settings.Nav.Controls",
+        "label": "Controls",
+        "relPos": {
+          "x": 0.05000000074505806,
+          "y": 0.699999988079071
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "Settings.Nav.Audio",
+        "label": "Audio",
+        "relPos": {
+          "x": 0.05000000074505806,
+          "y": 0.6000000238418579
+        },
+        "textColor": 4294967295
+      },
+      {
+        "font": "default",
+        "fontSize": 20.0,
+        "id": "Settings.Back",
+        "label": "Back",
+        "relPos": {
+          "x": 0.05000000074505806,
+          "y": 0.05000000074505806
+        },
+        "textColor": 25600
+      }
+    ],
+    "texture": "menu_button"
+  }
+}

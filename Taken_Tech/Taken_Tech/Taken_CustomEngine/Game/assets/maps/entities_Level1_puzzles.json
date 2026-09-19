@@ -1,0 +1,49 @@
+[
+  {
+    "x": 27,
+    "y": 7,
+    "kind": "generator",
+    "groupId": 10,
+    "requiredHits": 1,
+    "requiresProjectile": true
+  },
+  {
+    "x": 31,
+    "y": 7,
+    "kind": "generator",
+    "groupId": 10,
+    "requiredHits": 1,
+    "requiresProjectile": true
+  },
+
+  {
+    "x": 31,
+    "y": 13,
+    "kind": "door",
+    "groupId": 10
+  },
+  {
+    "x": 21,
+    "y": 7,
+    "kind": "lever",
+    "groupId": 20,
+    "toggle": true
+  },
+  {
+    "x": 27,
+    "y": 13,
+    "kind": "door",
+    "groupId": 20
+  },
+  {
+    "x": 21,
+    "y": 9,
+    "kind": "memory",
+    "memoryId": 1,
+    "requiredMemoryId": -1,
+    "healRadius": 120.0,
+    "duration": 8.0,
+    "narrative": "I remember the safe way forward… stay near the inner wall.",
+    "mapPath": "Assets/MemoryMaps/memory_01.png"
+  }
+]

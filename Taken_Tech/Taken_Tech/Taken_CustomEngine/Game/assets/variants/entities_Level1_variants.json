@@ -1,0 +1,7503 @@
+{
+  "objects": [
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_33_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_33_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_WallTile_33_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_33_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_25_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_33_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_34_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_35_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_36_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_37_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_37_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_36_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_35_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_34_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_WallTile_37_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_WallTile_36_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_WallTile_35_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_WallTile_34_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_37_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_36_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_35_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_34_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_37_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_37_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_37_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_37_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_36_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_36_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_36_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_36_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_35_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_34_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_35_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_35_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_35_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_34_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_34_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_34_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_33_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_33_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_33_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_29_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_29_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_29_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_25_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_25_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_25_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_24_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_24_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_24_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_24_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_23_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_19_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_20_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_22_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_21_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_23_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_22_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_21_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_20_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_19_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_34_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_35_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_35_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_34_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_35_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_34_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_24_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_24_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_23_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_24_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_23_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_22_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_21_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_22_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_21_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 39,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_WallTile_39_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_WallTile_38_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_38_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_38_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_38_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_38_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_38_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_38_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_38_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_38_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_37_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_36_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_37_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_37_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_36_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_36_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 30,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_30_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 30,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_30_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 30,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_30_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 30,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_30_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 32,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_32_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 32,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_32_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 32,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_32_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 32,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_32_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_26_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BL_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 32,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_32_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 30,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_30_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_29_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_28_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_38_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_38_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_38_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_36_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_37_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_35_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_38_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_37_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_36_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_35_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_35_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_36_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_37_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_38_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_33_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_34_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_34_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_34_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_25_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_24_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_24_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_24_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_24_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_24_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_34_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_35_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_36_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_37_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_38_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_38_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_37_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_36_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_35_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_34_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_33_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 32,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_32_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 31,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_31_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 30,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_30_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_29_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_28_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_27_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_26_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_25_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_34_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_36_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_35_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_36_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_35_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_34_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_33_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_33_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 32,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_32_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 32,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_32_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 31,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_31_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 31,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_31_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 30,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_30_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_29_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 30,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_30_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_29_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_28_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_27_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_28_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_27_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_26_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_25_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_25_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_24_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_23_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_22_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_24_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_23_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_22_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_23_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_22_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_23_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_22_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_23_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_22_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_23_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_22_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_22_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_23_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 40,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_40_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 40,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_40_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 40,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_40_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 40,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_40_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 40,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_40_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 40,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_40_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 40,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_40_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 40,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_40_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_38_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_37_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_38_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_37_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 38,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_38_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 37,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_37_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 36,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_36_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 35,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_35_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 34,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_34_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_33_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 32,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_32_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 31,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_31_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 30,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_30_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_29_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_28_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_27_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_26_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_26_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_25_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_24_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_23_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_22_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_21_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_20_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_21_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_20_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_21_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_20_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_20_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_21_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_19_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 17,
+      "hasSignature": false,
+      "name": "V_WallTile_18_7",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_19_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 18,
+      "hasSignature": false,
+      "name": "V_WallTile_18_6",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_18_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 19,
+      "hasSignature": false,
+      "name": "V_WallTile_19_5",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_19_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 20,
+      "hasSignature": false,
+      "name": "V_WallTile_18_4",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_21_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_20_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_19_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_21_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 16,
+      "hasSignature": false,
+      "name": "V_WallTile_18_8",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_18_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_19_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 15,
+      "hasSignature": false,
+      "name": "V_WallTile_20_9",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_21_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_21_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_20_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_19_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_18_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_18_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_19_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 14,
+      "hasSignature": false,
+      "name": "V_WallTile_20_10",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_18_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_18_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_18_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_25_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BR_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_24_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BR_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_24_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_25_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_25_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TR",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_24_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BL_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_18_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_23_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_23_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_23_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_TL",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_23_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BL_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_18_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_18_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_WallTile_18_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_18_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 18,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_18_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_WallTile_19_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_WallTile_19_18",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_WallTile_19_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 8,
+      "hasSignature": false,
+      "name": "V_WallTile_19_16",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_19_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_20_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_21_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_22_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_23_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_19_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_20_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_19_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 22,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_22_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BR_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_21_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BR_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 20,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_20_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_BR_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 19,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_19_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 23,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_23_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 31,
+      "gy": 6,
+      "hasSignature": false,
+      "name": "V_PuzzleGenerator_31_18",
+      "puzzle": {
+        "active": false,
+        "f0": 0.0,
+        "f1": 0.0,
+        "f2": 0.0,
+        "f3": 0.0,
+        "groupId": 10,
+        "i0": 1,
+        "i1": 0,
+        "i2": 1,
+        "i3": 0,
+        "kind": 6,
+        "s0": "",
+        "s1": ""
+      },
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "PuzzleGenerator"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_WallTile_27_11",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_27_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_28_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_28_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_28_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_27_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_27_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 10,
+      "hasSignature": false,
+      "name": "V_WallTile_26_14",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 11,
+      "hasSignature": false,
+      "name": "V_WallTile_26_13",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 12,
+      "hasSignature": false,
+      "name": "V_WallTile_26_12",
+      "removed": false,
+      "solid": true,
+      "textureKey": "Floor_Tile",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_27_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_28_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallTile_26_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 24,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_DoorLock_24_17",
+      "puzzle": {
+        "active": false,
+        "f0": 0.0,
+        "f1": 0.0,
+        "f2": 0.0,
+        "f3": 0.0,
+        "groupId": 10,
+        "i0": 0,
+        "i1": 0,
+        "i2": 0,
+        "i3": 0,
+        "kind": 4,
+        "s0": "",
+        "s1": ""
+      },
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "DoorLock"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        100.0,
+        100.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 31,
+      "gy": 9,
+      "hasSignature": false,
+      "name": "V_WallVariant_31_15",
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "WallVariant"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 31,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_PuzzleGenerator_31_17",
+      "puzzle": {
+        "active": false,
+        "f0": 0.0,
+        "f1": 0.0,
+        "f2": 0.0,
+        "f3": 0.0,
+        "groupId": 10,
+        "i0": 1,
+        "i1": 0,
+        "i2": 1,
+        "i3": 0,
+        "kind": 6,
+        "s0": "",
+        "s1": ""
+      },
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "PuzzleGenerator"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_PuzzleGenerator_27_17",
+      "puzzle": {
+        "active": false,
+        "f0": 0.0,
+        "f1": 0.0,
+        "f2": 0.0,
+        "f3": 0.0,
+        "groupId": 10,
+        "i0": 1,
+        "i1": 0,
+        "i2": 1,
+        "i3": 0,
+        "kind": 6,
+        "s0": "",
+        "s1": ""
+      },
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "PuzzleGenerator"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_Unknown_28_17",
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "Unknown"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 21,
+      "gy": 7,
+      "hasSignature": false,
+      "name": "V_Lever_21_17",
+      "puzzle": {
+        "active": false,
+        "f0": 0.0,
+        "f1": 0.0,
+        "f2": 0.0,
+        "f3": 0.0,
+        "groupId": 20,
+        "i0": 1,
+        "i1": 0,
+        "i2": 0,
+        "i3": 0,
+        "kind": 2,
+        "s0": "",
+        "s1": ""
+      },
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "Lever"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 31,
+      "gy": 13,
+      "hasSignature": false,
+      "name": "V_DoorLock_31_11",
+      "puzzle": {
+        "active": false,
+        "f0": 0.0,
+        "f1": 0.0,
+        "f2": 0.0,
+        "f3": 0.0,
+        "groupId": 20,
+        "i0": -1,
+        "i1": 0,
+        "i2": 0,
+        "i3": 0,
+        "kind": 4,
+        "s0": "",
+        "s1": ""
+      },
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "DoorLock"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 32,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_32_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 30,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_30_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 31,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_31_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_33_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_33_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 33,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_33_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_L_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_25_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_1",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_WallTile_25_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 25,
+      "gy": 3,
+      "hasSignature": false,
+      "name": "V_WallTile_25_21",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_R_2",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 26,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_26_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_27_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_29_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 28,
+      "gy": 2,
+      "hasSignature": false,
+      "name": "V_WallTile_28_22",
+      "removed": false,
+      "solid": true,
+      "textureKey": "wall_B&T",
+      "type": "WallTile"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 29,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_Torch_29_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "Torch"
+    },
+    {
+      "animEnd": 0,
+      "animSpeed": 0.0,
+      "animStart": 0,
+      "colliderSize": [
+        0.0,
+        0.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 27,
+      "gy": 5,
+      "hasSignature": false,
+      "name": "V_ranged_mini_boss_27_19",
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "ranged_mini_boss"
+    },
+    {
+      "animEnd": 5,
+      "animSpeed": 10.0,
+      "animStart": 0,
+      "colliderSize": [
+        80.0,
+        80.0
+      ],
+      "color": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "gx": 31,
+      "gy": 4,
+      "hasSignature": false,
+      "name": "V_ranged_mini_boss_31_20",
+      "removed": false,
+      "solid": true,
+      "textureKey": "",
+      "type": "ranged_mini_boss"
+    }
+  ],
+  "scene": "entities_Level1",
+  "tileSize": 100.0,
+  "version": 1
+}

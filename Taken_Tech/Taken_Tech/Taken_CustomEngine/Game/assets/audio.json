@@ -1,0 +1,181 @@
+{
+  "volumes": {
+    "masterDb": 0.0,
+    "musicDb": 0.0,
+    "sfxDb": 0.0
+  },
+  "bgm": {
+    "key": "bgm",
+    "file": "audio/BGM Menu.wav",
+    "loop": true,
+    "gain": 0.9
+  },
+  "sounds": {
+    "// COMMENT 1": "Background Music: -----------------------------------------------------",
+    "bgm": "audio/BGM/BGM Menu.wav",
+    "bgm_labyrinth": "audio/BGM/BGM Labyrinth.wav",
+    "bgm_startscene": "audio/BGM/BGM Starting scene.wav",
+    "bgm_losescene": "audio/BGM/BGM Lose screen.wav",
+    "bgm_endcutscene": "audio/BGM/BGM End cutscene.wav",
+
+    "// COMMENT 2": "SFXs: -----------------------------------------------------------------",
+    "fire": "audio/SFX/FX Fire.wav",
+
+    "door_open": "audio/SFX/FX Door Open v1.1.wav",
+    "door_close": "audio/SFX/FX Door Close.wav",
+
+    "buttonHover": "audio/SFX/FX Button Hover.wav",
+    "buttonClick": "audio/SFX/FX Button Push.wav",
+
+    "equip": "audio/SFX/FX Equip.wav",
+
+    "Heal": "audio/SFX/FX Healing.wav",
+    "Projectile": "audio/SFX/FX Projectile.wav",
+    "ranged_mini_boss": "audio/SFX/FX EnemyProjectile.wav",
+    "Burrow_In": "audio/SFX/FX Burrow In.wav",
+    "Burrow_Out": "audio/SFX/FX Burrow Out.wav",
+
+    "PlayerShot1": "audio/SFX/FX PlayerShot1.wav",
+    "PlayerShot2": "audio/SFX/FX PlayerShot2.wav",
+    "PlayerShot3": "audio/SFX/FX PlayerShot3.wav",
+
+    "footstep_1": "audio/SFX/FX Footsteps1.wav",
+    "footstep_2": "audio/SFX/FX Footsteps2.wav",
+    "footstep_3": "audio/SFX/FX Footsteps3.wav",
+    "footstep_4": "audio/SFX/FX Footsteps4.wav",
+    "footstep_5": "audio/SFX/FX Footsteps5.wav",
+    "footstep_6": "audio/SFX/FX Footsteps6.wav",
+    "footstep_7": "audio/SFX/FX Footsteps7.wav",
+
+    "Slash_1": "audio/SFX/FX Slash updated1.wav",
+    "Slash_2": "audio/SFX/FX Slash updated2.wav",
+    "Slash_3": "audio/SFX/FX Slash updated3.wav",
+    "Slash_4": "audio/SFX/FX Slash updated4.wav",
+    "Slash_5": "audio/SFX/FX Slash updated5.wav",
+    "Slash_6": "audio/SFX/FX Slash updated6.wav",
+    "Slash_7": "audio/SFX/FX Slash updated7.wav",
+
+    "generator_triggered": "audio/SFX/FX Generator activate.wav",
+    "generator_activated": "audio/SFX/FX Generator in work.wav",
+    "key_collected1": "audio/SFX/FX Key Collected1.wav",
+    "key_collected2": "audio/SFX/FX Key Collected2.wav",
+
+    "tile_crack1": "audio/SFX/FX tile crack1.wav",
+    "tile_crack2": "audio/SFX/FX tile crack2.wav",
+    "tile_crack3": "audio/SFX/FX tile crack3.wav",
+    "tile_crack4": "audio/SFX/FX tile crack4.wav",
+    "tile_break": "audio/SFX/FX tile break.wav",
+
+    "lever1": "audio/SFX/FX lever1.wav",
+    "lever2": "audio/SFX/FX lever2.wav",
+    "lever3": "audio/SFX/FX lever3.wav",
+
+    "ability_absorb1": "audio/SFX/FX ability absorb1.wav",
+    "ability_absorb2": "audio/SFX/FX ability absorb2.wav",
+
+    "burrow_footstep1": "audio/SFX/FX Burrow Footstep1.wav",
+    "burrow_footstep2": "audio/SFX/FX Burrow Footstep2.wav",
+
+    "player_grunt1": "audio/SFX/FX PlayerGrunt1.wav",
+    "player_grunt2": "audio/SFX/FX PlayerGrunt2.wav",
+    "player_grunt3": "audio/SFX/FX PlayerGrunt3.wav",
+
+    "// COMMENT 3": "Voice Overs: ----------------------------------------------------------",
+    "basic_attack1": "audio/Voice Over/basic attack1.wav",
+    "basic_attack2": "audio/Voice Over/basic attack2.wav",
+    "basic_attack3": "audio/Voice Over/basic attack3.wav",
+    "basic_attack4": "audio/Voice Over/basic attack4.wav",
+    "basic_attack5": "audio/Voice Over/basic attack5.wav",
+    "basic_attack6": "audio/Voice Over/basic attack6.wav",
+
+    "basic_damaged1": "audio/Voice Over/basic hurt1.wav",
+    "basic_damaged2": "audio/Voice Over/basic hurt2.wav",
+    "basic_damaged3": "audio/Voice Over/basic hurt3.wav",
+    "basic_damaged4": "audio/Voice Over/basic hurt4.wav",
+    "basic_damaged5": "audio/Voice Over/basic hurt5.wav",
+
+    "basic_death1": "audio/Voice Over/basic death1.wav",
+    "basic_death2": "audio/Voice Over/basic death2.wav",
+    "basic_death3": "audio/Voice Over/basic death3.wav",
+
+    "range_damaged1": "audio/Voice Over/Range Hurt1.wav",
+    "range_damaged2": "audio/Voice Over/Range Hurt2.wav",
+    "range_damaged3": "audio/Voice Over/Range Hurt3.wav",
+    "range_damaged4": "audio/Voice Over/Range Hurt4.wav",
+    "range_damaged5": "audio/Voice Over/Range Hurt5.wav",
+    "range_damaged6": "audio/Voice Over/Range Hurt6.wav",
+    "range_damaged7": "audio/Voice Over/Range Hurt7.wav",
+    "range_damaged8": "audio/Voice Over/Range Hurt8.wav",
+
+    "range_death1": "audio/Voice Over/Range Death1.wav",
+    "range_death2": "audio/Voice Over/Range Death2.wav",
+    "range_death3": "audio/Voice Over/Range Death3.wav",
+    "range_death4": "audio/Voice Over/Range Death4.wav",
+    "range_death5": "audio/Voice Over/Range Death5.wav",
+    "range_death6": "audio/Voice Over/Range Death6.wav",
+
+    "heal_attack1": "audio/Voice Over/Heal Attack1.wav",
+    "heal_attack2": "audio/Voice Over/Heal Attack2.wav",
+    "heal_attack3": "audio/Voice Over/Heal Attack3.wav",
+    "heal_attack4": "audio/Voice Over/Heal Attack4.wav",
+    "heal_attack5": "audio/Voice Over/Heal Attack5.wav",
+    "heal_attack6": "audio/Voice Over/Heal Attack6.wav",
+    "heal_attack7": "audio/Voice Over/Heal Attack7.wav",
+    "heal_attack8": "audio/Voice Over/Heal Attack8.wav",
+    "heal_attack9": "audio/Voice Over/Heal Attack9.wav",
+
+    "heal_damaged1": "audio/Voice Over/Heal Hurt1.wav",
+    "heal_damaged2": "audio/Voice Over/Heal Hurt2.wav",
+    "heal_damaged3": "audio/Voice Over/Heal Hurt3.wav",
+    "heal_damaged4": "audio/Voice Over/Heal Hurt4.wav",
+    "heal_damaged5": "audio/Voice Over/Heal Hurt5.wav",
+    "heal_damaged6": "audio/Voice Over/Heal Hurt6.wav",
+    "heal_damaged7": "audio/Voice Over/Heal Hurt7.wav",
+
+    "heal_death1": "audio/Voice Over/Heal Death1.wav",
+    "heal_death2": "audio/Voice Over/Heal Death2.wav",
+    "heal_death3": "audio/Voice Over/Heal Death3.wav",
+    "heal_death4": "audio/Voice Over/Heal Death4.wav",
+    "heal_death5": "audio/Voice Over/Heal Death5.wav",
+    "heal_death6": "audio/Voice Over/Heal Death6.wav",
+    "heal_death7": "audio/Voice Over/Heal Death7.wav",
+
+    "burrow_attack1": "audio/Voice Over/Burrow Attack1.wav",
+    "burrow_attack2": "audio/Voice Over/Burrow Attack2.wav",
+    "burrow_attack3": "audio/Voice Over/Burrow Attack3.wav",
+    "burrow_attack4": "audio/Voice Over/Burrow Attack4.wav",
+    "burrow_attack5": "audio/Voice Over/Burrow Attack5.wav",
+    "burrow_attack6": "audio/Voice Over/Burrow Attack6.wav",
+
+    "burrow_damaged1": "audio/Voice Over/Burrow Hurt1.wav",
+    "burrow_damaged2": "audio/Voice Over/Burrow Hurt2.wav",
+    "burrow_damaged3": "audio/Voice Over/Burrow Hurt3.wav",
+    "burrow_damaged4": "audio/Voice Over/Burrow Hurt4.wav",
+
+    "burrow_death1": "audio/Voice Over/Burrow Death1.wav",
+    "burrow_death2": "audio/Voice Over/Burrow Death2.wav",
+    "burrow_death3": "audio/Voice Over/Burrow Death3.wav",
+    "burrow_death4": "audio/Voice Over/Burrow Death4.wav",
+
+    "finalboss_attack1": "audio/Voice Over/Boss Attack1.wav",
+    "finalboss_attack2": "audio/Voice Over/Boss Attack2.wav",
+    "finalboss_attack3": "audio/Voice Over/Boss Attack3.wav",
+    "finalboss_attack4": "audio/Voice Over/Boss Attack4.wav",
+    "finalboss_attack5": "audio/Voice Over/Boss Attack5.wav",
+
+    "finalboss_damaged1": "audio/Voice Over/Boss Hurt1.wav",
+    "finalboss_damaged2": "audio/Voice Over/Boss Hurt2.wav",
+    "finalboss_damaged3": "audio/Voice Over/Boss Hurt3.wav",
+    "finalboss_damaged4": "audio/Voice Over/Boss Hurt4.wav",
+    "finalboss_damaged5": "audio/Voice Over/Boss Hurt5.wav",
+    "finalboss_damaged6": "audio/Voice Over/Boss Hurt6.wav",
+    "finalboss_damaged7": "audio/Voice Over/Boss Hurt7.wav",
+    "finalboss_damaged8": "audio/Voice Over/Boss Hurt8.wav",
+
+    "finalboss_death1": "audio/Voice Over/Boss Death1.wav",
+    "finalboss_death2": "audio/Voice Over/Boss Death2.wav",
+    "finalboss_death3": "audio/Voice Over/Boss Death3.wav",
+    "finalboss_death4": "audio/Voice Over/Boss Death4.wav",
+    "finalboss_death5": "audio/Voice Over/Boss Death5.wav"
+  }
+}

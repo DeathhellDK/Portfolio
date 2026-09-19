@@ -1,0 +1,70 @@
+{
+    "btnRelSize": [ 0.20, 0.08 ],
+    "exitRelPos": [ 0.85, 0.1 ],
+    "titleRelPos": [ 0.25, 0.8333 ],
+    "texturesRelSize": 0.09,
+    "bgTexture": "ControlBackground",
+    "buttonTexture": "menu_button",
+    "exitText": "Back",
+    "titleText": "Basic Controls",
+    "font": "default",
+    "titleFontSize": 83.2,
+    "textFontSize": 36.0,
+    "titleColor": 4292714751,
+    "textColor": 4294967295,
+    "guideTexture": "controllerGuide",
+    "guideRelPos": [ 0.43, 0.09 ],
+    "guideRelSize": [ 0.54, 0.82 ],
+    "exitFontSize": 20.0,
+    "exitFont": "default",
+    "controls": [
+        { 
+            "textures": "WASD", 
+            "texturesPos": [ 0.07, 0.685 ], 
+            "texturesSize": [ 0.09, 0.09 ],
+            "text": "Move", 
+            "textPos": [ 0.26, 0.73 ],
+            "textSize": 36.0
+        },
+        { 
+            "textures": "EKey", 
+            "texturesPos": [ 0.07, 0.575 ], 
+            "texturesSize": [ 0.09, 0.09 ],
+            "text": "Non-Damaging Ability", 
+            "textPos": [ 0.26, 0.62 ],
+            "textSize": 36.0
+        },
+        { 
+            "textures": "FKey", 
+            "texturesPos": [ 0.07, 0.465 ], 
+            "texturesSize": [ 0.09, 0.09 ],
+            "text": "Absorb / Interaction", 
+            "textPos": [ 0.26, 0.51 ],
+            "textSize": 36.0
+        },
+        { 
+            "textures": "LeftClick", 
+            "texturesPos": [ 0.07, 0.355 ], 
+            "texturesSize": [ 0.09, 0.09 ],
+            "text": "Melee Attack", 
+            "textPos": [ 0.26, 0.40 ],
+            "textSize": 36.0
+        },
+        { 
+            "textures": "RightClick", 
+            "texturesPos": [ 0.07, 0.245 ], 
+            "texturesSize": [ 0.09, 0.09 ],
+            "text": "Shoot", 
+            "textPos": [ 0.26, 0.29 ],
+            "textSize": 36.0
+        },
+        { 
+            "textures": "EscKey", 
+            "texturesPos": [ 0.07, 0.135 ], 
+            "texturesSize": [ 0.09, 0.09 ],
+            "text": "Menu", 
+            "textPos": [ 0.26, 0.18 ],
+            "textSize": 36.0
+        }
+    ]
+}

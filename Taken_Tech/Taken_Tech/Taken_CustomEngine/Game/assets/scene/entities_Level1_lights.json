@@ -1,0 +1,83 @@
+{
+  "lights": [
+    {
+      "ember": {
+        "additive": true,
+        "colorEnd": [
+          0.30000001192092896,
+          0.10000000149011612,
+          0.0
+        ],
+        "colorStart": [
+          1.0,
+          0.800000011920929,
+          0.5
+        ],
+        "enabled": false,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "particleLife": 0.800000011920929,
+        "rate": 20.0,
+        "sizeEnd": 1.0,
+        "sizeStart": 6.0,
+        "velMax": [
+          20.0,
+          60.0
+        ],
+        "velMin": [
+          -20.0,
+          30.0
+        ]
+      },
+      "enabled": true,
+      "flicker": {
+        "enabled": false,
+        "intensityMax": 1.0,
+        "intensityMin": 0.800000011920929,
+        "speed": 5.0,
+        "time": 0.0
+      },
+      "glow": {
+        "color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "enabled": false,
+        "intensity": 1.0,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "opacity": 0.3499999940395355,
+        "radius": 0.0,
+        "softness": 2.0
+      },
+      "position": [
+        3100.023681640625,
+        1401.666259765625
+      ],
+      "prefabTag": "Player",
+      "source": {
+        "attenuation": 0.0,
+        "color": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "enabled": true,
+        "intensity": 1.5,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "opacity": 0.25,
+        "radius": 100.0
+      }
+    }
+  ],
+  "scene": "entities_Level1",
+  "version": 1
+}

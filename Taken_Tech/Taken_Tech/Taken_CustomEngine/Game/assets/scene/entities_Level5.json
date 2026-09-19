@@ -1,0 +1,17 @@
+{
+  "map": {
+    "tileSize": 100.0,
+    "generateRoom": true,
+    "roomWidth": 40,
+    "roomHeight": 25,
+    "gridFile": "maps/entities_Level5.txt"
+  },
+  "objects": [
+    {
+      "prefab": "Player",
+      "name": "Player",
+      "position": [ 150, 300 ],
+      "rotation": 0
+    }
+  ]
+}
